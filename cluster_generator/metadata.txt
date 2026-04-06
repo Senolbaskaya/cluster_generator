@@ -19,4 +19,4 @@ category=Vector
 
 changelog=Release 1.0.0. supports QGIS 3.x and QGIS 4.x. Includes selected-features workflows, optional boundary clipping, temporary output naming with suffixes, single-cluster mode when no attribute is selected, categorized styling, and labeling from the name field.
 
-changelog[de]=Version 1.0.1.  unterstützt QGIS 3.x und QGIS 4.x. Enthält Workflows für ausgewählte Objekte, optionales Boundary-Clipping, temporäre Ausgaben mit Suffixen, Einzel-Cluster-Modus ohne Attributauswahl, kategorisierte Symbolisierung und Beschriftung über das Feld name.
+changelog[de]=Version 1.0.0.  unterstützt QGIS 3.x und QGIS 4.x. Enthält Workflows für ausgewählte Objekte, optionales Boundary-Clipping, temporäre Ausgaben mit Suffixen, Einzel-Cluster-Modus ohne Attributauswahl, kategorisierte Symbolisierung und Beschriftung über das Feld name.
