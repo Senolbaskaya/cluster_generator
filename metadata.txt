@@ -1,0 +1,22 @@
+[general]
+name=Cluster Generator
+
+description=Creates cluster polygons from point, line, and polygon layers using an optional attribute field.
+description[de]=Erstellt Cluster-Polygone aus Punkt-, Linien- und Polygon-Layern auf Basis eines optionalen Attributfeldes.
+
+about=Cluster Generator creates cluster polygons from point, line, and polygon input layers. Clusters can be generated from an attribute field or, if no attribute is selected, as a single cluster for the whole layer. The plugin supports optional boundary clipping, temporary or saved outputs, categorized styling, labeling from the name field, and selected-features workflows. The current package is intended for QGIS 3.x and QGIS 4.x.
+about[de]=Cluster Generator erzeugt Cluster-Polygone aus Punkt-, Linien- und Polygon-Layern. Cluster können über ein Attributfeld gebildet werden oder – wenn kein Attribut gewählt ist – als einzelner Cluster für den gesamten Layer. Das Plugin unterstützt optionales Clipping mit Boundary-Layern, temporäre oder gespeicherte Ausgaben, kategorisierte Symbolisierung, Beschriftung über das Feld name sowie Workflows nur für ausgewählte Objekte. Dieses Paket ist für QGIS 3.x und QGIS 4.x vorgesehen.
+
+
+version=1.0.0
+qgisMinimumVersion=3.22
+qgisMaximumVersion=4.99
+
+author=Senol Baskaya
+email=senolbaskaya@gmail.com
+icon=icon.png
+category=Vector
+
+changelog=Release 1.0.0. supports QGIS 3.x and QGIS 4.x. Includes selected-features workflows, optional boundary clipping, temporary output naming with suffixes, single-cluster mode when no attribute is selected, categorized styling, and labeling from the name field.
+
+changelog[de]=Version 1.0.1.  unterstützt QGIS 3.x und QGIS 4.x. Enthält Workflows für ausgewählte Objekte, optionales Boundary-Clipping, temporäre Ausgaben mit Suffixen, Einzel-Cluster-Modus ohne Attributauswahl, kategorisierte Symbolisierung und Beschriftung über das Feld name.
